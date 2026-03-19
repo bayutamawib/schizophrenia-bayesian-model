@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+~$*
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Large raw data (keep xlsx datasets but exclude massive CSVs/zips)
+dataset_raw_zip_csv/
+
+# PDF journals (too large for git)
+*.pdf
+journal resources/
+
+# IDE
+.vscode/
+.idea/
