@@ -23,13 +23,12 @@ This project formalizes the corollary discharge process — a neural mechanism b
 ├── README.md
 ├── calculate_weights.py              # Bayesian precision weight calculation
 ├── calculate_ancova_precision.py     # ANCOVA + variance-based ITPC proxy
-├── generate_paper_draft.py           # Academic paper draft generator
 ├── bayesian_model_report.md          # Bayesian model analysis report
 ├── ancova_precision_report.md        # ANCOVA precision analysis report
 ├── mergedTrialData.xlsx              # Per-trial EEG data (N100, P200, Baseline)
 ├── demographic.xlsx                  # Participant demographics
 ├── ancova_subject_results.csv        # Per-subject ANCOVA results
-└── paper_draft.docx                  # Generated academic paper draft
+└── paper_draft.docx                  # Academic paper draft
 ```
 
 ## The Bayesian Model
